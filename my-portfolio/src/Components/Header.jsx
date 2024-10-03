@@ -10,7 +10,7 @@ const Header = () => {
 
   return (
     <div className="bg-white backdrop-blur-md bg-opacity-60 shadow fixed z-10 w-full px-4 sm:px-6 md:px-10 lg:px-[70px] py-4 flex justify-between items-center">
-      <h1 className={"md:text-4xl text-4xl text-blue-900 font-bold  "}>Anas Waayeel</h1>
+      <h1 className={"md:text-4xl text-4xl text-blue-900 font-bold  "}>|Eng: <span className="text-blue-500">SHAKRA</span>|</h1>
       
       {/* Hamburger Menu Icon */}
       <div className="md:hidden" onClick={toggleMenu}>
