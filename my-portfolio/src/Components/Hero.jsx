@@ -10,7 +10,7 @@ const Hero = () => {
       I'm  <span className="text-blue-700">Abdishakuur Daahir Elmi</span> <br /> <span className="text-xl">junior </span> <br /> fullstack Web Developer
         </h1>
         <a 
-          href="/Abdishakuur Daahir elmi's Cv.pdf" // Tani waa dariiqa saxda ah ee CV-gaaga
+          href="/Abdishakuur Daahir elmi's Cv.docx" // Tani waa dariiqa saxda ah ee CV-gaaga
           target="_blank" 
           rel="noopener noreferrer"
           className="bg-blue-500 font-bold px-6 py-3 rounded-[10px] text-white mt-8 transition duration-300 hover:bg-blue-600"
